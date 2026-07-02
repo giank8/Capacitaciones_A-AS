@@ -8,6 +8,11 @@
       "nombre": "Giancarlo Aguirre",
       "rol": "Squad Leader"
     },
+        {
+      "id": 8,
+      "nombre": "Paolo Vasquez",
+      "rol": "SME"
+    },
     {
       "id": 2,
       "nombre": "Kevin Pillaca",
@@ -37,11 +42,6 @@
       "id": 7,
       "nombre": "Diego Postigo",
       "rol": "Technology Engineer"
-    },
-    {
-      "id": 8,
-      "nombre": "Paolo Vasquez",
-      "rol": "SME"
     },
     {
       "id": 9,
