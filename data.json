@@ -1,0 +1,75 @@
+{
+  "equipo": "Authentication & Application Services (A&AS)",
+  "cliente": "Banco de Crédito del Perú – Kyndryl PEMS",
+  "ultima_actualizacion": "2026-07-01",
+  "miembros": [
+    { "id": 1, "nombre": "Giancarlo Aguirre", "rol": "Squad Leader" },
+    { "id": 2, "nombre": "Kevin",  "rol": "Technology Engineer" },
+    { "id": 3, "nombre": "Fredy",  "rol": "Technology Engineer" },
+    { "id": 4, "nombre": "Saori",  "rol": "Technology Engineer" },
+    { "id": 5, "nombre": "Miguel", "rol": "SME" },
+    { "id": 6, "nombre": "Jesús",  "rol": "Technology Engineer" },
+    { "id": 7, "nombre": "Diego",  "rol": "Technology Engineer" },
+    { "id": 8, "nombre": "Paolo",  "rol": "Technology Engineer" },
+    { "id": 9, "nombre": "Bryan",  "rol": "Technology Engineer" },
+    { "id": 10,"nombre": "Leandro","rol": "Technology Engineer" }
+  ],
+  "capacitaciones": [
+    {
+      "id": 1,
+      "nombre": "Gestión de Requerimientos",
+      "completados": [
+        { "miembro_id": 1, "fecha": "2026-06-01" },
+        { "miembro_id": 2, "fecha": "2026-06-01" },
+        { "miembro_id": 3, "fecha": "2026-06-01" },
+        { "miembro_id": 4, "fecha": "2026-06-01" },
+        { "miembro_id": 5, "fecha": "2026-06-01" },
+        { "miembro_id": 6, "fecha": "2026-06-01" },
+        { "miembro_id": 7, "fecha": "2026-06-01" },
+        { "miembro_id": 8, "fecha": "2026-06-01" },
+        { "miembro_id": 9, "fecha": "2026-06-01" },
+        { "miembro_id": 10,"fecha": "2026-06-01" }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Gestión de Cambios",
+      "completados": [
+        { "miembro_id": 1, "fecha": "2026-06-05" },
+        { "miembro_id": 2, "fecha": "2026-06-05" },
+        { "miembro_id": 3, "fecha": "2026-06-05" },
+        { "miembro_id": 4, "fecha": "2026-06-05" },
+        { "miembro_id": 5, "fecha": "2026-06-05" },
+        { "miembro_id": 6, "fecha": "2026-06-05" },
+        { "miembro_id": 7, "fecha": "2026-06-05" },
+        { "miembro_id": 8, "fecha": "2026-06-05" },
+        { "miembro_id": 9, "fecha": "2026-06-05" },
+        { "miembro_id": 10,"fecha": "2026-06-05" }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Gestión de Problemas",
+      "completados": [
+        { "miembro_id": 1, "fecha": "2026-06-10" },
+        { "miembro_id": 2, "fecha": "2026-06-10" },
+        { "miembro_id": 3, "fecha": "2026-06-10" },
+        { "miembro_id": 4, "fecha": "2026-06-10" },
+        { "miembro_id": 5, "fecha": "2026-06-10" },
+        { "miembro_id": 6, "fecha": "2026-06-10" },
+        { "miembro_id": 7, "fecha": "2026-06-10" },
+        { "miembro_id": 8, "fecha": "2026-06-10" },
+        { "miembro_id": 9, "fecha": "2026-06-10" },
+        { "miembro_id": 10,"fecha": "2026-06-10" }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Bolsa de Horas",
+      "completados": [
+        { "miembro_id": 1, "fecha": "2026-06-15" },
+        { "miembro_id": 10,"fecha": "2026-06-15" }
+      ]
+    }
+  ]
+}
