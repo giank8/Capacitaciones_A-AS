@@ -10,47 +10,47 @@
     },
     {
       "id": 2,
-      "nombre": "Kevin",
+      "nombre": "Kevin Pillaca",
       "rol": "Technology Engineer"
     },
     {
       "id": 3,
-      "nombre": "Fredy",
+      "nombre": "Fredy Mejia",
       "rol": "Technology Engineer"
     },
     {
       "id": 4,
-      "nombre": "Saori",
+      "nombre": "Saori Kobayashi",
       "rol": "Technology Engineer"
     },
     {
       "id": 5,
-      "nombre": "Miguel",
+      "nombre": "Miguel Montañez",
       "rol": "SME"
     },
     {
       "id": 6,
-      "nombre": "Jesús",
+      "nombre": "Jesús Salazar",
       "rol": "Technology Engineer"
     },
     {
       "id": 7,
-      "nombre": "Diego",
+      "nombre": "Diego Postigo",
       "rol": "Technology Engineer"
     },
     {
       "id": 8,
-      "nombre": "Paolo",
+      "nombre": "Paolo Vasquez",
       "rol": "Technology Engineer"
     },
     {
       "id": 9,
-      "nombre": "Bryan",
+      "nombre": "Bryan Arnao",
       "rol": "Technology Engineer"
     },
     {
       "id": 10,
-      "nombre": "Leandro",
+      "nombre": " Jose Leandro",
       "rol": "Technology Engineer"
     }
   ],
