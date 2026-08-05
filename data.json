@@ -1,0 +1,341 @@
+{
+  "equipo": "Authentication & Application Services (A&AS)",
+  "cliente": "Banco de Crédito del Perú – Kyndryl PEMS",
+  "ultima_actualizacion": "2026-08-05",
+  "miembros": [
+    {
+      "id": 1,
+      "nombre": "Giancarlo Aguirre",
+      "rol": "Squad Leader"
+    },
+    {
+      "id": 2,
+      "nombre": "Paolo Vasquez",
+      "rol": "SME"
+    },
+    {
+      "id": 3,
+      "nombre": "Kevin Pillaca",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 4,
+      "nombre": "Fredy Mejia",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 5,
+      "nombre": "Saori Kobayashi",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 6,
+      "nombre": "Miguel Montañez",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 7,
+      "nombre": "Jesús Salazar",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 8,
+      "nombre": "Diego Postigo",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 9,
+      "nombre": "Bryan Arnao",
+      "rol": "Technology Engineer"
+    },
+    {
+      "id": 10,
+      "nombre": "Jose Leandro",
+      "rol": "Technology Engineer"
+    }
+  ],
+  "capacitaciones": [
+    {
+      "id": 1,
+      "nombre": "Gestión de Requerimientos",
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-06-01"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-06-01"
+        }
+      ],
+      "deadline": null
+    },
+    {
+      "id": 2,
+      "nombre": "Gestión de Cambios",
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-06-05"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-06-05"
+        }
+      ],
+      "deadline": null
+    },
+    {
+      "id": 3,
+      "nombre": "Gestión de Problemas",
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-06-10"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-06-10"
+        }
+      ],
+      "deadline": null
+    },
+    {
+      "id": 4,
+      "nombre": "Bolsa de Horas",
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-06-15"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-06-15"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-07-07"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-07-14"
+        }
+      ],
+      "deadline": null
+    },
+    {
+      "id": 5,
+      "nombre": "Gestión de Incidentes",
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-07-09"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-07-14"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-07-14"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-07-14"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-07-14"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-07-14"
+        }
+      ],
+      "deadline": null
+    },
+    {
+      "id": 6,
+      "nombre": "Gestión de Diagnostic Room / OneShot",
+      "deadline": null,
+      "completados": [
+        {
+          "miembro_id": 1,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 4,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 7,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 8,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 5,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 2,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 6,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 10,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 9,
+          "fecha": "2026-08-04"
+        },
+        {
+          "miembro_id": 3,
+          "fecha": "2026-08-05"
+        }
+      ]
+    }
+  ]
+}
